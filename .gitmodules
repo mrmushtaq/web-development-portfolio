@@ -4,3 +4,6 @@
 [submodule "WEb-Based-Quiz-Application"]
 	path = WEb-Based-Quiz-Application
 	url = https://github.com/mrmushtaq/WEb-Based-Quiz-Application.git
+[submodule "Web-based-Digital-Clock"]
+	path = Web-based-Digital-Clock
+	url = https://github.com/mrmushtaq/Web-based-Digital-Clock.git
