@@ -7,3 +7,6 @@
 [submodule "Web-based-Digital-Clock"]
 	path = Web-based-Digital-Clock
 	url = https://github.com/mrmushtaq/Web-based-Digital-Clock.git
+[submodule "Web-Application-Calculator"]
+	path = Web-Application-Calculator
+	url = https://github.com/mrmushtaq/Web-Application-Calculator.git
