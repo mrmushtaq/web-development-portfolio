@@ -1,3 +1,6 @@
 [submodule "Live-Code-Editor"]
 	path = Live-Code-Editor
 	url = https://github.com/mrmushtaq/Web-Engineering-Project-Live-Code-Editor-of-HTML-CSS-JS.git
+[submodule "WEb-Based-Quiz-Application"]
+	path = WEb-Based-Quiz-Application
+	url = https://github.com/mrmushtaq/WEb-Based-Quiz-Application.git
